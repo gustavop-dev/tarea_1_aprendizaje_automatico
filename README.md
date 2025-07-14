@@ -195,16 +195,6 @@ Todos los experimentos usan semillas fijas (`random_state=42`) para garantizar r
 ### Recursos Computacionales
 Los experimentos están optimizados para usar múltiples núcleos (`n_jobs=-1`) cuando sea posible.
 
-### Extensiones Futuras
-- Agregar más algoritmos de ML
-- Implementar validación cruzada estratificada
-- Incluir métricas adicionales (precision, recall, AUC)
-- Probar con otros datasets
-
-## 🤝 Contribuciones
-
-Este proyecto es parte de una tarea académica. Las mejoras y extensiones son bienvenidas.
-
 ## 📚 Referencias
 
 - [Optuna Documentation](https://optuna.org/)
@@ -213,6 +203,6 @@ Este proyecto es parte de una tarea académica. Las mejoras y extensiones son bi
 
 ---
 
-**Autor:** Tarea 1 - Primer Parcial  
+**Autor:** Gustavo Adolfo Pérez Pérez 
 **Curso:** Aprendizaje Automático  
 **Dataset:** Breast Cancer Wisconsin (Diagnostic) 
